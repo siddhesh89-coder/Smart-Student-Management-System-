@@ -41,4 +41,4 @@ Student records are stored in memory while the program is running. The data rese
 
 ## Author
 
-Sarthak Yelwande
+Siddhesh Dhanwate
